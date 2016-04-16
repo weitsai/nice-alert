@@ -20,6 +20,7 @@
 文章名稱              | 作者 | 說明 |
 ---------------------|----------------------------|----
 [(About) 10 Things You (Probably) Didn’t Know You Could do in Android Studio](https://medium.com/google-developers/about-10-things-you-probably-didn-t-know-you-could-do-in-android-studio-de231071b375#.bjzmewxuj) | [Reto Meier](https://medium.com/@retomeier) | 設定好用的別名讓你不再翻倒咖啡！
+[10 Tips to Improve Your Gradle Build Time] | [kenodoggy](https://medium.com/@kenodoggy) | 十個步驟加快 Gradle 的速度
 
 
 ### Android App
@@ -40,8 +41,11 @@
 
 
 #### 工具
-文章名稱|說明
-[Optimizing Android bytecode with ReDex](https://code.facebook.com/posts/1480969635539475/optimizing-android-bytecode-with-redex/)| Facebook 提供的 Android APK 壓縮和優化
+
+工具名稱 | 說明
+--------|------
+[Optimizing Android bytecode with ReDex](https://code.facebook.com/posts/1480969635539475/optimizing-android-bytecode-with-redex/) | Facebook 提供的 Android APK 壓縮和優化
+[Uber Widget ](https://medium.com/uber-developers/get-your-app-moving-the-ride-request-widget-is-now-available-f0c6f6a58988#.fe44onybe) | 在 App 中加入 Uber 的功能，有沒有分佣就不清楚了。
 
 ### 系列教學文章
 - 入門教學
@@ -86,6 +90,7 @@
 ---------|----
 [How To Make Users Think Your App Loads Faster](https://medium.com/@101/how-to-make-users-think-your-app-loads-faster-24052fe307bf) | 如何設計出一個好的 load 畫面
 [Designing complex products](https://medium.com/truth-labs/designing-complex-products-8f9289ab26c9#.kdmq6ymxu) | 介紹如何將複雜的設計變得清爽
+[Be the first designer at a start-up.](https://medium.com/@extremelyn/be-the-first-designer-at-a-start-up-60b0984b1e5d#.3emugx8l9) | 某位外國人分享身為新創中第一個，同時也是唯一的設計師的心得，要讓設計更貼近使用者很多時候他們需要更多的資訊，但是往往那些資訊非創辦人是難以取得，這樣的情況下就得學通靈了。
 
 
 ### 好用工具
