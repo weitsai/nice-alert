@@ -1,8 +1,6 @@
 # 好文關注
 希望透過收集好文能夠找到能夠一起討論成長的朋友，我們可以玩得很瘋，但也要懂得一起分享 ^^
 
-## GIT
-
 ## Android
 有關 Android 的文章都會放在這，不管是 Android Studio, App, NDK, framwork 都放在這，會盡可能做分門別類。
 
@@ -46,9 +44,9 @@
 	- [Google 手把手帶你認識 MVP](https://github.com/googlesamples/android-architecture) - [google sample](https://github.com/googlesamples)
 	- [如何自學 Android?](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=402135493&idx=1&sn=c2e040f95551082cbe2bdf7182dc3e9f#rd)
 	- [Awesome-RxJava](https://github.com/lzyzsd/Awesome-RxJava) - [lzyzsd](http://www.weibo.com/brucefromsdu)
-	
+
 		此內容為簡體，整理 RxJava 相關文章，從 API、套件到 Test 都整理出部分值得看的文章。（作者是阿里巴巴的 android 開發者）
-	
+
 	- [Awesome-android-mvp-dagger](https://github.com/Tikitoo/awesome-android-mvp-dagger) - [Tikitoo](http://tikitoo.me/)
 
 
@@ -68,7 +66,7 @@
 
 
 ### 開發以外的事
-文章名稱              | 說明 
+文章名稱              | 說明
 ---------------------|--------
 [如何四週拿到一萬個五顆星](https://medium.com/@warpling/how-i-got-10-000-five-star-reviews-in-4-weeks-5246cc4c55c7) | -
 
@@ -88,3 +86,103 @@
 工具名稱  | 用途
 ---------|----
 [Ready to prototype from within Sketch? Then say hello to Silver](https://medium.com/sketch-app-sources/ready-to-prototype-from-within-sketch-then-say-hello-to-silver-a9e68b0ce3db) | 使用 sketch 製作 App prototype
+
+
+
+## GIT
+## 好文推薦
+- [Git api 總整理](img/git-api.png)
+
+	大陸做的一張完整 git 大多數指令詳解的圖。
+
+- [GitHub dotfile](https://dotfiles.github.io/)
+
+	許多知名開發者把自己的環境設定放在上面，也包含 gitconfig.
+
+- [Git Commit 該怎麼寫？](http://chris.beams.io/posts/git-commit/)
+
+	國外有人寫了一篇如何撰寫 Git commit 的良好規範。
+
+- [Git 常見工作流程](https://www.atlassian.com/git/tutorials/comparing-workflows/centralized-workflow)
+
+	個人比較喜歡 fork 的工作流程，其次則是 gitflow，當然還是依照每個團隊大多數人的習慣去選擇或改變。
+
+- [AngularJS Git Commit Message Conventions](https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit#)
+
+	看看 AngualarJS 的 commit 規則
+
+## 系列教學文章/網站
+- [try git](https://try.github.io/levels/1/challenges/1)
+
+	Code School 做的一套 git 線上互訂學習的課程，這部分是免費的會一直教到 github 帳號整合。
+
+- [連猴子都能懂的 Git 入門教學](https://backlogtool.com/git-guide/tw/)
+
+	號稱連猴子都能看到的 git 入門教學。
+
+- [版本控系統](https://ihower.tw/git/)
+
+	由台灣知名開發者 ihower 寫的系列 git 教材，也有很多分享過的投影片，想要了解 git 工作原理這幾篇不能錯過。
+
+- [30 天精通 Git 版本控管](https://github.com/doggy8088/Learn-Git-in-30-days)
+
+	由保哥所寫的三十天精通 git 開發，如果想要看繁體中文的話大推這篇，輕鬆學會基本的 git 操作方式。
+
+## GUI
+軟體名稱|簡介|支援平台
+------|---|---------
+[Github Desktop](https://desktop.github.com/)|Github 製作的一套簡單可以操作 git 的 GUI|Windows, Mac
+[Source Tree](https://www.sourcetreeapp.com/)|非常多人推薦的 Git GUI|Mac
+[tortoisegit](https://tortoisegit.org/)|許多 Windwos 開發者推薦的一套|Windows
+[Git Bash](https://git-for-windows.github.io/)|早時候沒有上面幾套軟體，在 windows 下面想要玩 git 都會選擇它|Windows, Mac
+
+
+## Tool
+名稱|功能
+----|----
+[gitignore](https://www.gitignore.io/)| 產生大多數程式所需要用到的 git ignore 檔案
+[diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)
+
+
+## Git 平台
+網站名稱|簡介
+-------|--------
+[github](https://github.com/)|絕大多數 Open Source 專案放置的地方，如果要 private 需付費。
+[bitbucket](https://bitbucket.org/)|可以免費使用 private repo，免費參與人數額度為五人</br>（push/pull 速度不如 github)
+[gitlab](https://about.gitlab.com/)|自己架設 git server 可以使用這一套。
+[貝格樂](https://backlogtool.com/git-guide/tw/)|
+[gitcafe](https://gitcafe.com/?locale=zh-TW)|
+
+## 常用指令
+### 基本
+指令名稱|用途
+-------|---
+add|
+commit|
+push|
+pull|
+clone|
+status|
+
+### 進階
+指令名稱|用途
+-------|---
+checkout|
+push|
+pull|
+clone|
+rebase|
+remote|
+reset|
+revert|
+stash|
+log|
+diff|
+tag|
+branch|
+git ls-files|
+
+
+
+
+
