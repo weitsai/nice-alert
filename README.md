@@ -38,6 +38,11 @@
 [Android 中WebView 的使用](http://tikitoo.me/2016/01/05/android-webview-note/)|[tikitoo](http://tikitoo.me/)| WebView 的一些使用方式與注意事項
 [Android 開發中，那些相見恨晚的接口](http://liukun.engineer/2016/04/11/Android%E5%BC%80%E5%8F%91%E4%B8%AD%EF%BC%8C%E9%82%A3%E4%BA%9B%E8%AE%A9%E4%BD%A0%E7%9B%B8%E8%A7%81%E6%81%A8%E6%99%9A%E7%9A%84%E6%96%B9%E6%B3%95%E3%80%81%E7%B1%BB%E6%88%96%E6%8E%A5%E5%8F%A3/)| - | 大多數我們常用的 view 或其它套件都會預留很多接口，這篇文章介紹了大多數常用的 Class，大家來看看自己對這些街口認識多少吧！
 
+
+#### 工具
+文章名稱|說明
+[Optimizing Android bytecode with ReDex](https://code.facebook.com/posts/1480969635539475/optimizing-android-bytecode-with-redex/)| Facebook 提供的 Android APK 壓縮和優化
+
 ### 系列教學文章
 - 入門教學
 	- [Android Guidline](http://guides.codepath.com/android) - [codepath](http://codepath.com/)
