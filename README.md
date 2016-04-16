@@ -80,6 +80,7 @@
 文章名稱  | 心得
 ---------|----
 [How To Make Users Think Your App Loads Faster](https://medium.com/@101/how-to-make-users-think-your-app-loads-faster-24052fe307bf) | 如何設計出一個好的 load 畫面
+[Designing complex products](https://medium.com/truth-labs/designing-complex-products-8f9289ab26c9#.kdmq6ymxu) | 介紹如何將複雜的設計變得清爽
 
 
 ### 好用工具
