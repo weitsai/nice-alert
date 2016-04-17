@@ -104,6 +104,15 @@
 [Ready to prototype from within Sketch? Then say hello to Silver](https://medium.com/sketch-app-sources/ready-to-prototype-from-within-sketch-then-say-hello-to-silver-a9e68b0ce3db) | 使用 sketch 製作 App prototype
 
 
+### 值得關注的網站
+網站名稱 | 喜歡的理由
+-------|---------
+[dribbble](https://dribbble.com/)|每天都有一些很棒的設計在上面，有些看了真的很療癒，但是也有人說這些設計不切實際，但每個東西的存在都有適合他的地方。
+[https://www.behance.net/]()|和 bribbble 類似，但這是 adobe 的論壇
+[奧格設計](http://www.ogdesign.tw/resources#)|台灣某個公司整理了非常多設計相關的資源，想要知道更多設計相關的網站跟工具可以看這。
+[awwwards](http://www.awwwards.com/)|每天都會評選出一些不錯的網站
+[babich](http://babich.biz/)|整理很多有關 UI/UX 的文章，值得偶爾來看看唷
+
 
 ## GIT
 ## 好文推薦
