@@ -14,6 +14,7 @@
 [free-programming-books](https://github.com/vhf/free-programming-books)|整理非常多程式語言的資料，當然也有 Android。
 [awesome-android](http://snowdream.github.io/awesome-android/)|待捕
 [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)|待捕
+[qitta-android](http://qiita.com/tags/Android)|日本許多開發者會在這發表文章，經常有寶物可以挖。
 
 
 ### Android Studio
@@ -39,6 +40,7 @@
 [Android 中WebView 的使用](http://tikitoo.me/2016/01/05/android-webview-note/)|[tikitoo](http://tikitoo.me/)| WebView 的一些使用方式與注意事項
 [Android 開發中，那些相見恨晚的接口](http://liukun.engineer/2016/04/11/Android%E5%BC%80%E5%8F%91%E4%B8%AD%EF%BC%8C%E9%82%A3%E4%BA%9B%E8%AE%A9%E4%BD%A0%E7%9B%B8%E8%A7%81%E6%81%A8%E6%99%9A%E7%9A%84%E6%96%B9%E6%B3%95%E3%80%81%E7%B1%BB%E6%88%96%E6%8E%A5%E5%8F%A3/)| - | 大多數我們常用的 view 或其它套件都會預留很多接口，這篇文章介紹了大多數常用的 Class，大家來看看自己對這些街口認識多少吧！
 [Android ViewPager, FragmentPagerAdapter and orientation changes](https://medium.com/@roideuniverse/android-viewpager-fragmentpageradapter-and-orientation-changes-256c23bee035#.ocsmvn8jt)|Kaushik Saurabh|在切換語系或是轉機轉向的時候都會觸發 orientation changes 這個方法，會導致值重置，因此要怎麼儲存這些值呢？ 來看看 Kaushik Saurabh 的做法吧！
+[Overview Screen 的文字顏色](http://qiita.com/pside/items/e28dfdd1f42f7a2cb9f2)|Android 5.0 後，當我們按下 home 鍵可以看到 app 縮圖，而上面的 task bar 的顏色會抓 colorPrimary，但字的顏色則無法控制，這篇帶大家透過看 android framwork 來了解原因，並且附上為什麼要這樣做的原因 (w3c)。
 
 
 #### 工具
@@ -79,6 +81,7 @@
 文章名稱              | 說明
 ---------------------|--------
 [如何四週拿到一萬個五顆星](https://medium.com/@warpling/how-i-got-10-000-five-star-reviews-in-4-weeks-5246cc4c55c7) | -
+[為何我不擔心 Goolge play 的負面評論？](https://m.signalvnoise.com/why-i-don-t-worry-about-our-app-s-negative-reviews-c32279214cdd#.kojfulrl8)|多聽正面滿意的回覆，因為他將會是我們前進改進的動力！
 
 
 
