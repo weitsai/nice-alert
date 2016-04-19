@@ -38,6 +38,7 @@
 [The Anatomy of a Frame](https://medium.com/google-developers/the-anatomy-of-a-frame-d79e6c566c64)|[Paul Lewis](https://medium.com/@aerotwist)| 認識 Process
 [Android 中WebView 的使用](http://tikitoo.me/2016/01/05/android-webview-note/)|[tikitoo](http://tikitoo.me/)| WebView 的一些使用方式與注意事項
 [Android 開發中，那些相見恨晚的接口](http://liukun.engineer/2016/04/11/Android%E5%BC%80%E5%8F%91%E4%B8%AD%EF%BC%8C%E9%82%A3%E4%BA%9B%E8%AE%A9%E4%BD%A0%E7%9B%B8%E8%A7%81%E6%81%A8%E6%99%9A%E7%9A%84%E6%96%B9%E6%B3%95%E3%80%81%E7%B1%BB%E6%88%96%E6%8E%A5%E5%8F%A3/)| - | 大多數我們常用的 view 或其它套件都會預留很多接口，這篇文章介紹了大多數常用的 Class，大家來看看自己對這些街口認識多少吧！
+[Android ViewPager, FragmentPagerAdapter and orientation changes](https://medium.com/@roideuniverse/android-viewpager-fragmentpageradapter-and-orientation-changes-256c23bee035#.ocsmvn8jt)|Kaushik Saurabh|在切換語系或是轉機轉向的時候都會觸發 orientation changes 這個方法，會導致值重置，因此要怎麼儲存這些值呢？ 來看看 Kaushik Saurabh 的做法吧！
 
 
 #### 工具
@@ -88,7 +89,6 @@
 ### 工作流程
 文章名稱  | 心得
 ---------|----
-[How To Make Users Think Your App Loads Faster](https://medium.com/@101/how-to-make-users-think-your-app-loads-faster-24052fe307bf) | 如何設計出一個好的 load 畫面
 [Designing complex products](https://medium.com/truth-labs/designing-complex-products-8f9289ab26c9#.kdmq6ymxu) | 介紹如何將複雜的設計變得清爽
 [Be the first designer at a start-up.](https://medium.com/@extremelyn/be-the-first-designer-at-a-start-up-60b0984b1e5d#.3emugx8l9) | 某位外國人分享身為新創中第一個，同時也是唯一的設計師的心得，要讓設計更貼近使用者很多時候他們需要更多的資訊，但是往往那些資訊非創辦人是難以取得，這樣的情況下就得學通靈了。
 
@@ -96,6 +96,7 @@
 文章名稱  | 說明
 ---------|----
 [Tabs for Mobile UX Design](https://uxplanet.org/tabs-for-mobile-ux-design-d4cc4d9410d1#.o17fqdy2sj)|介紹 mobile 上的 tab 使用時機還有體驗
+[How To Make Users Think Your App Loads Faster](https://medium.com/@101/how-to-make-users-think-your-app-loads-faster-24052fe307bf) | 如何設計出一個好的 load 畫面
 
 
 ### 好用工具
