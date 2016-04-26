@@ -150,6 +150,10 @@
 - [19 個每天用的 git 指令](http://www.alexkras.com/19-git-tips-for-everyday-use/)
 
 	裡面介紹許多人不常用的指令，但是會了這些指令有助於整理 commit 或團隊開發唷。
+	
+- [把自己的 dropbox 當成 git server](http://www.anishathalye.com/2016/04/25/dropbox-as-a-true-git-server/)
+
+	想要 private repo 又覺得 bitbubcket 很慢的話可以試試看這個方法 ＸＤ
 
 ## 系列教學文章/網站
 - [try git](https://try.github.io/levels/1/challenges/1)
