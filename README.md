@@ -49,6 +49,7 @@
 --------|------
 [Optimizing Android bytecode with ReDex](https://code.facebook.com/posts/1480969635539475/optimizing-android-bytecode-with-redex/) | Facebook 提供的 Android APK 壓縮和優化
 [Uber Widget ](https://medium.com/uber-developers/get-your-app-moving-the-ride-request-widget-is-now-available-f0c6f6a58988#.fe44onybe) | 在 App 中加入 Uber 的功能，有沒有分佣就不清楚了。
+[SQL語法轉 java calss](http://www.autojcode.com/code/sql2class.jsp) | 透過 SQL 語法轉 java class，還有 java class 轉 SQL 語法。
 
 ### 系列教學文章
 - 入門教學
@@ -74,8 +75,7 @@
 		- Part 7: [Image optimization, Shape and VectorDrawables](https://medium.com/@wkalicinski/smallerapk-part-7-image-optimization-shape-and-vectordrawables-ed6be3dca3f)
 		- Part 8: [Native libraries, open from APK](https://medium.com/@wkalicinski/smallerapk-part-8-native-libraries-open-from-apk-fc22713861ff)
 
-
-
+---
 
 ### 開發以外的事
 文章名稱              | 說明
@@ -123,6 +123,7 @@
 [awwwards](http://www.awwwards.com/)|每天都會評選出一些不錯的網站
 [babich](http://babich.biz/)|整理很多有關 UI/UX 的文章，值得偶爾來看看唷
 
+---
 
 ## GIT
 ## 好文推薦
