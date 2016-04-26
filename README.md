@@ -21,7 +21,7 @@
 文章名稱              | 作者 | 說明 |
 ---------------------|----------------------------|----
 [(About) 10 Things You (Probably) Didn’t Know You Could do in Android Studio](https://medium.com/google-developers/about-10-things-you-probably-didn-t-know-you-could-do-in-android-studio-de231071b375#.bjzmewxuj) | [Reto Meier](https://medium.com/@retomeier) | 設定好用的別名讓你不再翻倒咖啡！
-[10 Tips to Improve Your Gradle Build Time] | [kenodoggy](https://medium.com/@kenodoggy) | 十個步驟加快 Gradle 的速度
+[10 Tips to Improve Your Gradle Build Time](https://medium.com/@kenodoggy/10-tips-to-improve-your-gradle-build-time-1ddeca924759) | [kenodoggy](https://medium.com/@kenodoggy) | 十個步驟加快 Gradle 的速度
 
 
 ### Android App
@@ -150,7 +150,7 @@
 - [19 個每天用的 git 指令](http://www.alexkras.com/19-git-tips-for-everyday-use/)
 
 	裡面介紹許多人不常用的指令，但是會了這些指令有助於整理 commit 或團隊開發唷。
-	
+
 - [把自己的 dropbox 當成 git server](http://www.anishathalye.com/2016/04/25/dropbox-as-a-true-git-server/)
 
 	想要 private repo 又覺得 bitbubcket 很慢的話可以試試看這個方法 ＸＤ
