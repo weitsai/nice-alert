@@ -15,6 +15,7 @@
 [awesome-android](http://snowdream.github.io/awesome-android/)|待捕
 [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)|待捕
 [qitta-android](http://qiita.com/tags/Android)|日本許多開發者會在這發表文章，經常有寶物可以挖。
+[android-sdk-cn](https://www.sdk.cn/news/2207)|中國網站，放了很多有關 android  sdk 底層的東西
 
 
 ### Android Studio
@@ -74,6 +75,9 @@
 		- Part 6: [Image optimization, Zopfli & WebP](https://medium.com/@wkalicinski/smallerapk-part-6-image-optimization-zopfli-webp-4c462955647d)
 		- Part 7: [Image optimization, Shape and VectorDrawables](https://medium.com/@wkalicinski/smallerapk-part-7-image-optimization-shape-and-vectordrawables-ed6be3dca3f)
 		- Part 8: [Native libraries, open from APK](https://medium.com/@wkalicinski/smallerapk-part-8-native-libraries-open-from-apk-fc22713861ff)
+
+
+	- [Android 官方出的效能優化典範](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE)
 
 ---
 
