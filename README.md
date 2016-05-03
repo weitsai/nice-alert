@@ -51,6 +51,7 @@
 [Optimizing Android bytecode with ReDex](https://code.facebook.com/posts/1480969635539475/optimizing-android-bytecode-with-redex/) | Facebook 提供的 Android APK 壓縮和優化
 [Uber Widget ](https://medium.com/uber-developers/get-your-app-moving-the-ride-request-widget-is-now-available-f0c6f6a58988#.fe44onybe) | 在 App 中加入 Uber 的功能，有沒有分佣就不清楚了。
 [SQL語法轉 java calss](http://www.autojcode.com/code/sql2class.jsp) | 透過 SQL 語法轉 java class，還有 java class 轉 SQL 語法。
+[裁切圖片](https://github.com/Yalantis/uCrop)
 
 ### 系列教學文章
 - 入門教學
