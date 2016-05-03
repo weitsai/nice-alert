@@ -79,6 +79,8 @@
 
 	- [Android 官方出的效能優化典範](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE)
 
+	- [Android博客周刊专题之＃插件化开发＃](http://www.androidblog.cn/index.php/Index/detail/id/16#)
+
 ---
 
 ### 開發以外的事
