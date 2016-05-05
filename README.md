@@ -102,7 +102,8 @@
 [Designing complex products](https://medium.com/truth-labs/designing-complex-products-8f9289ab26c9#.kdmq6ymxu) | 介紹如何將複雜的設計變得清爽
 [Be the first designer at a start-up.](https://medium.com/@extremelyn/be-the-first-designer-at-a-start-up-60b0984b1e5d#.3emugx8l9) | 某位外國人分享身為新創中第一個，同時也是唯一的設計師的心得，要讓設計更貼近使用者很多時候他們需要更多的資訊，但是往往那些資訊非創辦人是難以取得，這樣的情況下就得學通靈了。
 [How To Be More Organized While Designing UI](https://medium.com/@tristanminor/how-to-be-more-organized-while-designing-ui-90d2d69cfb4f) | 如何設計出比較有組織性的設計，裡面有一些 sample 可以下載
-[Design at 1x—It’s a Fact](https://medium.com/shyp-design/design-at-1x-its-a-fact-249c5b896536#.wgnkfvuo6) | 朋友曾經和我分享過為什麼要做 1x 圖放大，而不是做最大的圖縮小的概念，這篇看完覺得很棒，希望大家也能看看
+[Design at 1x—It’s a Fact](https://medium.com/shyp-design/design-at-1x-its-a-fact-249c5b896536) | 朋友曾經和我分享過為什麼要做 1x 圖放大，而不是做最大的圖縮小的概念，這篇看完覺得很棒，希望大家也能看看
+[So your boss doesn’t believe in design research](https://blog.prototypr.io/so-your-boss-doesn-t-believe-in-user-research-40d8128db08e) | 為什麼老闆會覺得設計不重要？看看這篇外國文章的見解吧
 
 ### UX
 文章名稱  | 說明
