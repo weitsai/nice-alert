@@ -23,6 +23,7 @@
 ---------------------|----------------------------|----
 [(About) 10 Things You (Probably) Didn’t Know You Could do in Android Studio](https://medium.com/google-developers/about-10-things-you-probably-didn-t-know-you-could-do-in-android-studio-de231071b375#.bjzmewxuj) | [Reto Meier](https://medium.com/@retomeier) | 設定好用的別名讓你不再翻倒咖啡！
 [10 Tips to Improve Your Gradle Build Time](https://medium.com/@kenodoggy/10-tips-to-improve-your-gradle-build-time-1ddeca924759) | [kenodoggy](https://medium.com/@kenodoggy) | 十個步驟加快 Gradle 的速度
+[Instant Run: How Does it Work?!](https://medium.com/google-developers/instant-run-how-does-it-work-294a1633367f#.n9w2huoxs) | 認識 androdi studio 的 instant run 的原理吧
 
 
 ### Android App
