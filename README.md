@@ -53,6 +53,7 @@
 [Uber Widget ](https://medium.com/uber-developers/get-your-app-moving-the-ride-request-widget-is-now-available-f0c6f6a58988#.fe44onybe) | 在 App 中加入 Uber 的功能，有沒有分佣就不清楚了。
 [SQL語法轉 java calss](http://www.autojcode.com/code/sql2class.jsp) | 透過 SQL 語法轉 java class，還有 java class 轉 SQL 語法。
 [裁切圖片](https://github.com/Yalantis/uCrop)
+[Aviary](https://developers.aviary.com/) | 圖片濾鏡等效果，由 adobe 釋出
 
 ### 系列教學文章
 - 入門教學
@@ -82,6 +83,8 @@
 	- [Android 官方出的效能優化典範](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE)
 
 	- [Android博客周刊专题之＃插件化开发＃](http://www.androidblog.cn/index.php/Index/detail/id/16#)
+
+	- [ANDROID SDK 源码解析](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis)
 
 ---
 
