@@ -55,6 +55,14 @@
 [裁切圖片](https://github.com/Yalantis/uCrop)
 [Aviary](https://developers.aviary.com/) | 圖片濾鏡等效果，由 adobe 釋出
 
+
+
+#### 其他小知識
+文章名稱 | 說明
+--------|------
+[Understanding Android Naming Conventions](https://tir38.com/archives/1423) | Android 命名規則
+[A SUCCESSFUL XML NAMING CONVENTION](http://jeroenmols.com/blog/2016/03/07/resourcenaming/) | XML 命名規則
+
 ### 系列教學文章
 - 入門教學
 	- [Android Guidline](http://guides.codepath.com/android) - [codepath](http://codepath.com/)
