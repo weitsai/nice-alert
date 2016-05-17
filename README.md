@@ -74,6 +74,10 @@
 
 	- [Awesome-android-mvp-dagger](https://github.com/Tikitoo/awesome-android-mvp-dagger) - [Tikitoo](http://tikitoo.me/)
 
+	- [Data Binding权威使用指南](https://www.zybuluo.com/shark0017/note/256112)
+
+		除了一般 Data Binding 使用還有教一些好用的技巧，例如快速 rename
+
 
 - 進階
 	- SmallerAPK - [Wojtek Kaliciński](https://twitter.com/wkalic)
@@ -122,6 +126,7 @@
 ---------|----
 [Tabs for Mobile UX Design](https://uxplanet.org/tabs-for-mobile-ux-design-d4cc4d9410d1#.o17fqdy2sj)|介紹 mobile 上的 tab 使用時機還有體驗
 [How To Make Users Think Your App Loads Faster](https://medium.com/@101/how-to-make-users-think-your-app-loads-faster-24052fe307bf) | 如何設計出一個好的 load 畫面
+[Visual Perception. Icons vs Copy in UI](https://medium.com/@tubikstudio/visual-perception-icons-vs-copy-in-ui-cd8e1a2f8af0#.1uiz9pt3m) | 視覺上的反應，通常圖像比較能幫助長期的記憶，也相較於文字容易辨認
 
 
 ### 文字排版
