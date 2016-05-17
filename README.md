@@ -62,6 +62,7 @@
 --------|------
 [Understanding Android Naming Conventions](https://tir38.com/archives/1423) | Android 命名規則
 [A SUCCESSFUL XML NAMING CONVENTION](http://jeroenmols.com/blog/2016/03/07/resourcenaming/) | XML 命名規則
+[Android Studio Log 使用小技巧](https://github.com/tianzhijiexian/Android-Best-Practices) | 快速使用 log
 
 ### 系列教學文章
 - 入門教學
