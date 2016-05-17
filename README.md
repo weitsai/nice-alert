@@ -63,6 +63,8 @@
 [Understanding Android Naming Conventions](https://tir38.com/archives/1423) | Android 命名規則
 [A SUCCESSFUL XML NAMING CONVENTION](http://jeroenmols.com/blog/2016/03/07/resourcenaming/) | XML 命名規則
 [Android Studio Log 使用小技巧](https://github.com/tianzhijiexian/Android-Best-Practices) | 快速使用 log
+[Android XML tools function](http://www.jianshu.com/p/a39dddb46bd8) | 好用的 tools:text, toos:context 不用嗎～～？
+[Android 开发实战经验总结](http://www.jianshu.com/p/4f152bc8f4f3) | 中國寫的一篇 Android 實戰經驗，很多地方值得借鏡
 
 ### 系列教學文章
 - 入門教學
