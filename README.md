@@ -39,6 +39,7 @@
 [strings-xml-tools](https://github.com/constantine-ivanov/strings-xml-tools) | 一次處理多個國家的 string.xml 可以新增/刪除
 [lint-cleaner-plugin](https://github.com/marcoRS/lint-cleaner-plugin) | 刪除沒用到的資源 Corlor/String 等，也可以自己寫設定
 [CodeGlance](https://github.com/Vektah/CodeGlance) | 讓 Android Stdio 右邊和 Sublime text 同樣有文件整體的瀏覽視窗
+[ignore](https://plugins.jetbrains.com/plugin/7495?pr=idea) | 可以產生常用的 ignore 內容，可以盡量避免少過濾檔案的問題
 
 
 
@@ -59,6 +60,7 @@
 [Android 開發中，那些相見恨晚的接口](http://liukun.engineer/2016/04/11/Android%E5%BC%80%E5%8F%91%E4%B8%AD%EF%BC%8C%E9%82%A3%E4%BA%9B%E8%AE%A9%E4%BD%A0%E7%9B%B8%E8%A7%81%E6%81%A8%E6%99%9A%E7%9A%84%E6%96%B9%E6%B3%95%E3%80%81%E7%B1%BB%E6%88%96%E6%8E%A5%E5%8F%A3/)| - | 大多數我們常用的 view 或其它套件都會預留很多接口，這篇文章介紹了大多數常用的 Class，大家來看看自己對這些街口認識多少吧！
 [Android ViewPager, FragmentPagerAdapter and orientation changes](https://medium.com/@roideuniverse/android-viewpager-fragmentpageradapter-and-orientation-changes-256c23bee035#.ocsmvn8jt)|Kaushik Saurabh|在切換語系或是轉機轉向的時候都會觸發 orientation changes 這個方法，會導致值重置，因此要怎麼儲存這些值呢？ 來看看 Kaushik Saurabh 的做法吧！
 [Overview Screen 的文字顏色](https://www.facebook.com/stuwebbertsai/posts/1296365877047456?comment_id=1296369977047046&reply_comment_id=1296374697046574&notif_t=feed_comment&notif_id=1461132407961883)|Android 5.0 後，當我們按下 home 鍵可以看到 app 縮圖，而上面的 task bar 的顏色會抓 colorPrimary，但字的顏色則無法控制，這篇帶大家透過看 android framwork 來了解原因，並且附上為什麼要這樣做的原因 (w3c)。
+[Android自定义控件三部曲文章索引](http://blog.csdn.net/harvic880925/article/details/50995268) | 深入淺出認識 view 的控制
 
 
 
