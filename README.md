@@ -24,6 +24,22 @@
 [(About) 10 Things You (Probably) Didn’t Know You Could do in Android Studio](https://medium.com/google-developers/about-10-things-you-probably-didn-t-know-you-could-do-in-android-studio-de231071b375#.bjzmewxuj) | [Reto Meier](https://medium.com/@retomeier) | 設定好用的別名讓你不再翻倒咖啡！
 [10 Tips to Improve Your Gradle Build Time](https://medium.com/@kenodoggy/10-tips-to-improve-your-gradle-build-time-1ddeca924759) | [kenodoggy](https://medium.com/@kenodoggy) | 十個步驟加快 Gradle 的速度
 [Instant Run: How Does it Work?!](https://medium.com/google-developers/instant-run-how-does-it-work-294a1633367f#.n9w2huoxs) | 認識 androdi studio 的 instant run 的原理吧
+[GsonFormat](https://github.com/zzz40500/GsonFormat) | 可以把 json  匯入直接產生 gson 的 class
+
+
+### Android Studio 套件
+套件名稱 | 說明
+--------|---------
+[android-proguard-snippets](https://github.com/krschultz/android-proguard-snippets) | 常見套件會使用到的 proguard
+[android-selector-chapek](https://github.com/inmite/android-selector-chapek) | 針對某張圖片直接產生 selector
+[folding-plugin](https://github.com/dmytrodanylyk/folding-plugin) | 讓 layout 可以有階層，但是好像沒有這麼穩定
+[android-parcelable-intellij-plugin](https://github.com/mcharmas/android-parcelable-intellij-plugin) | 自動產生各種型態的 Parcelable
+[material-theme-jetbrains](https://github.com/ChrisRM/material-theme-jetbrains) | 讓 Android Studio 變可愛的 theme
+[Lifecycle-Sorter](https://github.com/armandAkop/Lifecycle-Sorter) | 讓 Activity/Fragment 的生命週期方法照順序排列
+[strings-xml-tools](https://github.com/constantine-ivanov/strings-xml-tools) | 一次處理多個國家的 string.xml 可以新增/刪除
+[lint-cleaner-plugin](https://github.com/marcoRS/lint-cleaner-plugin) | 刪除沒用到的資源 Corlor/String 等，也可以自己寫設定
+[CodeGlance](https://github.com/Vektah/CodeGlance) | 讓 Android Stdio 右邊和 Sublime text 同樣有文件整體的瀏覽視窗
+
 
 
 ### Android App
@@ -123,6 +139,9 @@
 [How To Be More Organized While Designing UI](https://medium.com/@tristanminor/how-to-be-more-organized-while-designing-ui-90d2d69cfb4f) | 如何設計出比較有組織性的設計，裡面有一些 sample 可以下載
 [Design at 1x—It’s a Fact](https://medium.com/shyp-design/design-at-1x-its-a-fact-249c5b896536) | 朋友曾經和我分享過為什麼要做 1x 圖放大，而不是做最大的圖縮小的概念，這篇看完覺得很棒，希望大家也能看看
 [So your boss doesn’t believe in design research](https://blog.prototypr.io/so-your-boss-doesn-t-believe-in-user-research-40d8128db08e) | 為什麼老闆會覺得設計不重要？看看這篇外國文章的見解吧
+[從設計到卓越](https://zhuanlan.zhihu.com/p/20829706) | 許多設計往往好在細節之中，這也是設計最大的價值，大家可以看看設計到底有多少小細節我們沒有注意到呢
+[設計師的憤怒——分享日本的專案設計流程](http://www.inside.com.tw/2016/05/19/designers-wrath-and-japanese-design-flow) | 裡面有提到 protyotype 的流程，但是往往所有流程會因為團隊的成員與性質有所不同但是還是值得借鏡參考。
+
 
 ### UX
 文章名稱  | 說明
