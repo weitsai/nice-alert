@@ -61,6 +61,7 @@
 [Overview Screen 的文字顏色](https://www.facebook.com/stuwebbertsai/posts/1296365877047456?comment_id=1296369977047046&reply_comment_id=1296374697046574&notif_t=feed_comment&notif_id=1461132407961883)|Android 5.0 後，當我們按下 home 鍵可以看到 app 縮圖，而上面的 task bar 的顏色會抓 colorPrimary，但字的顏色則無法控制，這篇帶大家透過看 android framwork 來了解原因，並且附上為什麼要這樣做的原因 (w3c)。
 
 
+
 #### 工具
 
 工具名稱 | 說明
@@ -81,6 +82,7 @@
 [Android Studio Log 使用小技巧](https://github.com/tianzhijiexian/Android-Best-Practices) | 快速使用 log
 [Android XML tools function](http://www.jianshu.com/p/a39dddb46bd8) | 好用的 tools:text, toos:context 不用嗎～～？
 [Android 开发实战经验总结](http://www.jianshu.com/p/4f152bc8f4f3) | 中國寫的一篇 Android 實戰經驗，很多地方值得借鏡
+[BitMask 使用参考](http://www.jianshu.com/p/694979e1c252) | 使用 Bit/Byte 做一些狀態的儲存與更改
 
 ### 系列教學文章
 - 入門教學
@@ -96,6 +98,14 @@
 	- [Data Binding权威使用指南](https://www.zybuluo.com/shark0017/note/256112)
 
 		除了一般 Data Binding 使用還有教一些好用的技巧，例如快速 rename
+
+
+	- [Android面试一天一题](Android面试一天一题)
+		- [1 day](http://www.jianshu.com/p/7a7db9f8692d)
+		- [2 day](http://www.jianshu.com/p/df7af437e766)
+		- [3 day](http://www.jianshu.com/p/ae6e1d93cc8e)
+		- [4 day](http://www.jianshu.com/p/f8a0c43b3dfe)
+		- [5 day](http://www.jianshu.com/p/1071b9c48f1e)
 
 
 - 進階
@@ -278,8 +288,3 @@ diff|
 tag|
 branch|
 git ls-files|
-
-
-
-
-
