@@ -151,6 +151,7 @@
 [So your boss doesn’t believe in design research](https://blog.prototypr.io/so-your-boss-doesn-t-believe-in-user-research-40d8128db08e) | 為什麼老闆會覺得設計不重要？看看這篇外國文章的見解吧
 [從設計到卓越](https://zhuanlan.zhihu.com/p/20829706) | 許多設計往往好在細節之中，這也是設計最大的價值，大家可以看看設計到底有多少小細節我們沒有注意到呢
 [設計師的憤怒——分享日本的專案設計流程](http://www.inside.com.tw/2016/05/19/designers-wrath-and-japanese-design-flow) | 裡面有提到 protyotype 的流程，但是往往所有流程會因為團隊的成員與性質有所不同但是還是值得借鏡參考。
+[华为设计总监：如何做设计决策](http://www.uisdc.com/how-to-make-design-decisions) | 在整個大環境裡，設計師年輕人居多，我們很難以人生閱歷、經驗論來說服很多合作同事，所以我們靠的是夠專業。
 
 
 ### UX
