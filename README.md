@@ -86,6 +86,7 @@
 [Android XML tools function](http://www.jianshu.com/p/a39dddb46bd8) | 好用的 tools:text, toos:context 不用嗎～～？
 [Android 开发实战经验总结](http://www.jianshu.com/p/4f152bc8f4f3) | 中國寫的一篇 Android 實戰經驗，很多地方值得借鏡
 [BitMask 使用参考](http://www.jianshu.com/p/694979e1c252) | 使用 Bit/Byte 做一些狀態的儲存與更改
+[WebP 的兩三事](http://blog.csdn.net/a405942873/article/details/51498833) | 作者介紹了如何在 Android 中使用 WebP 也可以多看幾份參考資料來知道後端大概要有多少工
 
 ### 系列教學文章
 - 入門教學
@@ -109,6 +110,9 @@
 		- [3 day](http://www.jianshu.com/p/ae6e1d93cc8e)
 		- [4 day](http://www.jianshu.com/p/f8a0c43b3dfe)
 		- [5 day](http://www.jianshu.com/p/1071b9c48f1e)
+
+
+	- [Google Code Labs](https://codelabs.developers.google.com/)
 
 
 - 進階
@@ -168,6 +172,7 @@
 ### 文字排版
 文章名稱 | 說明
 [to 設計師：文字排版的四個原則](http://qiita.com/Yama-to/items/cb7f280b44a14c898418)|一個工程師寫給設計師文字排版時應該注意的四個原則。
+[2016 最新常用字体规范](http://www.zcool.com.cn/article/ZNDA3MDEy.html)|從字數、大小一一介紹目前字體會有的規範，提供大家在設計思考的時候有個雛形框架。
 
 
 ### 好用工具
