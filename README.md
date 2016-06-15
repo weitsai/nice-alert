@@ -179,6 +179,8 @@
 工具名稱  | 用途
 ---------|----
 [Ready to prototype from within Sketch? Then say hello to Silver](https://medium.com/sketch-app-sources/ready-to-prototype-from-within-sketch-then-say-hello-to-silver-a9e68b0ce3db) | 使用 sketch 製作 App prototype
+[Google Font](https://fonts.google.com/) | 可以用 web 看到 google font  提供的字體，也能做些調整。
+[My Fonts](http://www.myfonts.com/WhatTheFont/) | 查詢英文字體的好去處
 
 
 ### 值得關注的網站
